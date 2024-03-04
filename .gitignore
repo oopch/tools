@@ -1,0 +1,15 @@
+
+
+# Notebook Files
+.pytest_cache
+__pycache__/
+checkpoint/
+.ipynb_checkpoints/
+*.ipynb
+
+
+#do not track 
+misc*/
+
+#PyCharm
+.idea
